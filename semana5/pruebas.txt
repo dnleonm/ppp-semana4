@@ -1,0 +1,11 @@
+Ruta: http://localhost:3000
+Resultado:
+El servidor respondió correctamente mostrando el mensaje "Servidor activo".
+
+Ruta: http://localhost:3000/saludo
+Resultado:
+La ruta respondió correctamente mostrando el mensaje "Hola comunidad".
+
+Ruta: http://localhost:3000/mensaje/juan
+Resultado:
+La ruta respondió correctamente mostrando el mensaje personalizado "Hola juan".
