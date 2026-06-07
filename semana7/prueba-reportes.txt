@@ -1,0 +1,16 @@
+PRUEBA DE REPORTES - SEMANA 7
+
+Se registró un reporte mediante una petición POST a la ruta:
+
+http://localhost:3000/reportes
+
+Con el siguiente JSON:
+
+{
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+
+Posteriormente se realizó una consulta mediante GET a la misma ruta.
+
+La API devolvió un array con los reportes almacenados en memoria, incluyendo el reporte registrado. Esto demuestra que la aplicación puede registrar información mediante POST y consultarla mediante GET.
