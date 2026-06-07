@@ -1,0 +1,30 @@
+PRUEBA DE API - SEMANA 6
+
+Se realizó una petición POST a la ruta:
+
+http://localhost:3000/registro
+
+Con el siguiente JSON:
+
+PRUEBA DE API - SEMANA 6
+
+Se realizó una petición POST a la ruta:
+
+http://localhost:3000/registro
+
+Con el siguiente JSON:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+El servidor respondió correctamente con:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Esto demuestra que Express recibió los datos mediante req.body y devolvió una respuesta en formato JSON.
