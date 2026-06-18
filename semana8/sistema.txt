@@ -1,0 +1,7 @@
+Comando uname -a:
+Muestra información del sistema operativo, versión del kernel y arquitectura del equipo.
+
+Comando whoami:
+Muestra el nombre del usuario que está utilizando el sistema.
+
+Estos comandos son útiles para administrar servidores porque permiten identificar el entorno de trabajo, verificar configuraciones y conocer con qué usuario se están ejecutando procesos o tareas administrativas.

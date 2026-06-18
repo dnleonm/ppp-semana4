@@ -1,0 +1,5 @@
+Explica en el archivo conceptos-api.txt:
+
+La ruta POST /reporte permite recibir información enviada por el usuario mediante el cuerpo de la solicitud. En este caso, el servidor recibe un mensaje y responde con un objeto JSON confirmando que el reporte fue recibido correctamente.
+
+Esta ruta podría servir en una aplicación comunitaria para recibir reportes ciudadanos, alertas barriales, solicitudes de ayuda o información enviada por la comunidad de manera organizada.
